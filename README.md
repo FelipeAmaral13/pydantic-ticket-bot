@@ -1,0 +1,1 @@
+# pydantic-ticket-bot
